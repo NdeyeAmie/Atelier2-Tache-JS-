@@ -1,0 +1,17 @@
+- Quels sont les types de données qui existent en javascript 
+En JavaScript, il existe plusieurs types de données principaux :
+
+1: Primitive Types (Types primitifs):
+
+Number: Nombre entier ou décimal.
+String: Chaîne de caractères, comme du texte.
+Boolean: Valeur logique, soit vrai (true) ou faux (false).
+Undefined: Indique qu'une variable n'a pas été assignée de valeur.
+Null: Représente une valeur nulle ou vide intentionnelle.
+
+2 : Complex Types (Types complexes):
+Object: Structure de données complexe pouvant contenir des propriétés et des méthodes.
+Function: Un bloc de code réutilisable qui peut être appelé en invoquant son nom.
+Array: Une liste ordonnée d'éléments, souvent utilisée pour stocker plusieurs valeurs dans une seule variable.
+Date: Représente une date et une heure spécifiques en JavaScript.
+RegExp: Objet utilisé pour travailler avec des expressions régulières pour la recherche et la manipulation de chaînes de caractères.
