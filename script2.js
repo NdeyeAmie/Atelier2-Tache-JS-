@@ -1,5 +1,6 @@
 const number = 14;
 console.log(typeof number + " " + "4");
+//La méthode toString() renvoie un objet sous forme de chaîne . 
 const typeDeVariable = number.toString();
 console.log(typeof typeDeVariable);
 
